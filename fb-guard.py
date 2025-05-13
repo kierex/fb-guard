@@ -117,7 +117,7 @@ def main():
     while True:
         clear_screen()
         console.print(Panel('[bold cyan][1] Manage Profile Guard[/bold cyan]\n[bold red][2] Exit[/bold red]',
-                            style='bold magenta', title='[bold yellow]🔧 Facebook Guard Tool 🔧'))
+                            style='bold magenta', title='[bold yellow]🔥 Facebook Guard by Vrax 🔥'))
         choice = console.input('[bold yellow]Select an option (1/2): [/bold yellow]').strip()
         if choice == '1':
             guard_on()
