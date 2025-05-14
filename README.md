@@ -6,9 +6,9 @@ apt update
 
 apt upgrade 
 
-pkg install git
+pkg install git 
 
-git clone 
+git clone https://github.com/kierex/fb-guard
 
 cd fb-guard
 
